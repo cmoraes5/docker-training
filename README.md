@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To run the project you need Docker Desktop or Rancher Desktop, that's recommended that you install WSL too, in case have you on a Windows OS 
 
 ## Available Scripts
 
